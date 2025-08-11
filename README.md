@@ -41,7 +41,7 @@ by using `http://host.docker.internal:11434/` as the host.
    
    Ollama URL: http://ollama:11434
 
-   Qdrant URL: http://qdrant:6333 (API key can be whatever since this is running locally)
+   Supabase URL: http://supabase:8000 (API key can be whatever since this is running locally)
 
    Google Drive: Follow [this guide from n8n](https://docs.n8n.io/integrations/builtin/credentials/google/).
    Don't use localhost for the redirect URI, just use another domain you have, it will still work!
